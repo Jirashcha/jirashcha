@@ -4,7 +4,7 @@ Hi ! :smiley_cat: My name is Jirashcha
 Student
 -------
 
-I am a Microsoft Learn Student Ambassador and Junior Backend Developer at the Center of Specialty Innovation (CoSI). Currently, I’m a third-year at Bangkok University, Faculty of Information Technology and Innovation (Computer Science - Data Science and Cybersecurity). I am interested in AI, Data and DevSecOps.
+I am a Microsoft Learn Student Ambassador and Junior Developer at the Center of Specialty Innovation (CoSI). Currently, I’m a third-year at Bangkok University, Faculty of Information Technology and Innovation (Computer Science - Data Science and Cybersecurity). I am interested in AI, Data and DevSecOps.
 
 * 🌍  I'm based in Pathum Thani
 * ✉️  You can contact me at [jirashcha.wang@gmail.com](mailto:jirashcha.wang@gmail.com)
