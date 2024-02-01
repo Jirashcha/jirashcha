@@ -6,7 +6,7 @@ Student
 
 I am a Microsoft Learn Student Ambassador and Junior Software Developer at the Center of Specialty Innovation (CoSI). Currently, I’m a third-year at Bangkok University, Faculty of Information Technology and Innovation (Computer Science - Data Science and Cybersecurity). I am interested in AI, Data and DevSecOps.
 
-* 🌍  I'm based in Pathum Thani
+* 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [jirashcha.wang@gmail.com](mailto:jirashcha.wang@gmail.com)
 
 ### Badges
