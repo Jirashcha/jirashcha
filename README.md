@@ -1,4 +1,4 @@
-Hi! 😺 My name is Jirashcha
+Hi! 🐶 My name is Jirashcha
 ========================================================================================================================
 
 Junior Data Engineer
@@ -9,5 +9,4 @@ I graduated from **Bangkok University**, Faculty of Information Technology and I
 
 I'm passionate about **Data**, **AI**, and I enjoy building real-world tech solutions that combine these fields.
 
-- 🌍  I'm based in **Bangkok, Thailand**  
 - ✉️  You can contact me at: [jirashcha.wang@gmail.com](mailto:jirashcha.wang@gmail.com)
